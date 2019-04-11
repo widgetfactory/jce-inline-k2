@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="system">
+	<name>K2 Inline Edit</name>
+	<author>Ryan Demmer</author>
+	<creationDate>October 2014</creationDate>
+	<copyright>Copyright (C)  Ryan Demmer. All rights reserved.</copyright>
+	<license>GNU General Public License version 3 or later</license>
+	<authorEmail>info@widgetfactorylimited.co.uk</authorEmail>
+	<authorUrl>www.widgetfactorylimited.co.uk</authorUrl>
+	<version>1.0.1</version>
+	<description>K2 Inline Edit</description>
+
+	<files>
+		<filename plugin="jce_inline_com_k2">jce_inline_com_k2.php</filename>
+	</files>
+	<languages></languages>
+	<config></config>
+</extension>
